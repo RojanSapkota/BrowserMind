@@ -1,7 +1,6 @@
 <div align="center">
 
-
-
+<img width="1080" height="267" alt="image" src="https://github.com/user-attachments/assets/69bc9226-1a5d-4c97-b69a-bfa8a5bc9c04" />
 
 **Run Tasks in Autopilot.**
 Any model. Minimal setup.
