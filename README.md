@@ -1,20 +1,12 @@
-
-# BrowserMind
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/🌐-BrowserMind-7F77DD?style=flat" />
+
 
 
 **Run Tasks in Autopilot.**
 Any model. Minimal setup.
 
-[![Python](https://img.shields.io/badge/Python-3.11+-3776ab?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/rojansapkota/BrowserMind?style=flat&logo=github)](https://github.com/rojansapkota/BrowserMind)
-[![Providers](https://img.shields.io/badge/LLM_Providers-5-7F77DD?style=flat)](README.md)
-
-[Features](#-features) · [Quick Start](#-quick-start) · [Configuration](#-configuration) · [Examples](#-usage-examples)
+[Features](#-features) · [Quick Start](#-quick-start) · [Examples](#-demos)
 
 </div>
 
@@ -22,11 +14,17 @@ Any model. Minimal setup.
 
 ## 🎯 Overview
 
-**BrowserMind** is a browser automation agent built on top of [browser-use](https://github.com/browser-use/browser-use), giving you a single interface to run any browser task using the LLM of your choice. Point it at a task, pick a model, and let it run.
+**BrowserMind** is a browser automation agent built on top of [browser-use](https://github.com/browser-use/browser-use). giving you a single interface to run any browser task using the LLM of your choice. Point it at a task, pick a model, and let it run.
 
-> Form automation · Data scraping · Complex workflows · Headless 
+> Form automation · Data scraping · Complex workflows · Automation
 
 ---
+
+### Example
+
+#### Task = "Fill in this job application with my resume and information."
+![Job Application Demo](https://github.com/user-attachments/assets/57865ee6-6004-49d5-b2c2-6dff39ec2ba9)
+
 
 ## ✨ Features
 
@@ -104,10 +102,6 @@ cp .env.example .env  # Create from template (optional)
 ```
 
 # Demos
-
-### 📋 Form-Filling
-#### Task = "Fill in this job application with my resume and information."
-![Job Application Demo](https://github.com/user-attachments/assets/57865ee6-6004-49d5-b2c2-6dff39ec2ba9)
 
 ### 🍎 Grocery-Shopping
 #### Task = "Put this list of items into my instacart."
