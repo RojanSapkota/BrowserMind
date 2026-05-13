@@ -22,9 +22,9 @@ Any model. Minimal setup.
 
 ## 🎯 Overview
 
-**BrowserMind** is a browser automation agent built on top of [browser-use](https://github.com/browser-use/browser-use) — giving you a single interface to run any browser task using the LLM of your choice. Point it at a task, pick a model, and let it run.
+**BrowserMind** is a browser automation agent built on top of [browser-use](https://github.com/browser-use/browser-use), giving you a single interface to run any browser task using the LLM of your choice. Point it at a task, pick a model, and let it run.
 
-> Form automation · Data scraping · Complex workflows · Headless by default · 5 LLM providers
+> Form automation · Data scraping · Complex workflows · Headless 
 
 ---
 
@@ -36,7 +36,6 @@ Any model. Minimal setup.
 | **Speed Optimized** | Built-in speed optimization for fast task completion with minimal steps |
 | **Easy Setup** | Minimal configuration—just set your API keys and go |
 | **Headless Browsing** | Efficient headless browser automation out of the box |
-| **Vision Disabled** | Faster execution without vision capabilities (easily toggleable) |
 | **Error Handling** | Graceful fallbacks and error management |
 | **Extensible Tools** | Built on Browser-Use's comprehensive tool ecosystem |
 
@@ -103,6 +102,23 @@ pip install -r requirements.txt
 cp .env.example .env  # Create from template (optional)
 # Edit .env with your API keys
 ```
+
+# Demos
+
+### 📋 Form-Filling
+#### Task = "Fill in this job application with my resume and information."
+![Job Application Demo](https://github.com/user-attachments/assets/57865ee6-6004-49d5-b2c2-6dff39ec2ba9)
+
+### 🍎 Grocery-Shopping
+#### Task = "Put this list of items into my instacart."
+
+https://github.com/user-attachments/assets/a6813fa7-4a7c-40a6-b4aa-382bf88b1850
+
+
+### 💻 Personal-Assistant.
+#### Task = "Help me find parts for a custom PC."
+
+https://github.com/user-attachments/assets/ac34f75c-057a-43ef-ad06-5b2c9d42bf06
 
 ---
 
@@ -261,24 +277,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 💬 Support
-
-If you find Browser Mind helpful, please consider:
-
 <div align="center">
+
+**Made with ❤️ for the OpenSource community**
+
+[⬆ back to top](#-BrowserMind)
+
+</div>
+
+
+### Support Me
 
 [![Wise](https://img.shields.io/badge/Wise-00B9FF?style=for-the-badge&logo=wise&logoColor=white)](https://rojansapkota.com.np/wise) 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/payrojan) 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rojansapkota) 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rojansapkota.com.np)
-
-</div>
-
-<div align="center">
-
-**Made with ❤️ for the AI automation community**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/rojansapkota)
-[![Twitter](https://img.shields.io/twitter/follow/rojansapkota?style=flat&logo=twitter&logoColor=white)](https://twitter.com/rojansapkota)
-
-</div>
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rojansapkota.com.np/pay) 
+![Views Counter](https://views-counter.vercel.app/badge?pageId=rojansapkota-BrowserMind&leftColor=000000&rightColor=0adb3f&type=total&label=Viewers&style=none)
