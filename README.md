@@ -5,7 +5,7 @@
 **Run Tasks in Autopilot.**
 Any model. Minimal setup.
 
-[Features](#-features) · [Quick Start](#-quick-start) · [Examples](#-demos)
+[Features](#-features) · [Quick Start](#-quick-start) · [Demos](#demos)
 
 </div>
 
