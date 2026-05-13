@@ -1,0 +1,4 @@
+python-dotenv
+browser-use
+groq
+google-generativeai
