@@ -17,10 +17,6 @@ Any model. Minimal setup.
 
 > Form automation · Data scraping · Complex workflows · Automation
 
----
-
-### Example
-
 #### Task = "Fill in this job application with my resume and information."
 ![Job Application Demo](https://github.com/user-attachments/assets/57865ee6-6004-49d5-b2c2-6dff39ec2ba9)
 
