@@ -73,7 +73,7 @@ def initialize_agent(query: str, provider: str):
 		use_vision=False,
 		max_actions_per_step=1,
 		extend_system_message=SPEED_OPTIMIZATION_PROMPT
-	), browser_session
+	)
 
 async def run_agent(query: str, provider: str = 'groq'):
 	if get_llm(provider) is None:
